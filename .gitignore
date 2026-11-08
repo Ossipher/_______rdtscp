@@ -1,0 +1,12 @@
+@(
+.vs/
+x64/
+Release/
+Debug/
+*.pdb
+*.ilk
+*.exe
+*.obj
+*.iobj
+*.ipdb
+)
